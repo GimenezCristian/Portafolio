@@ -3,16 +3,16 @@
     "description": "Soy Cristian Giménez, apasionado por el desarrollo de software y la creación de soluciones eficientes.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Cristian Gimenez",
+    "skill": "Apasionado por el desarrollo de software, la optimización de procesos y el aprendizaje constante.",
+    "location": "Entre Rios, Argentina",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "gimenezc779@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/GimenezCristian",
+        "likedin": "https://www.linkedin.com/in/cristian-gimenez/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Programador orientado a resultados, especializado en desarrollo de software y aplicaciones móviles. Disfruto optimizar procesos y trabajar en proyectos innovadores.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
@@ -69,7 +69,7 @@
             ],
             "image": "/project_1.jpg",
             "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/GimenezCristian"
         },
         {
             "icon": "bug-off",
@@ -84,7 +84,7 @@
             ],
             "image": "/project_2.jpg",
             "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/GimenezCristian"
         }
     ],
     "training": [
