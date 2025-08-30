@@ -13,7 +13,7 @@ DATA = data.data
 
 def index() -> rx.Component:
     return rx.center(
-        # rx.theme_panel(),
+        rx.theme_panel(),  # Panel de temas activo
         rx.vstack(
             header(DATA),
             about(DATA.about),
@@ -38,9 +38,16 @@ app = rx.App(
     stylesheets=STYLESHEETS,
     style=BASE_STYLE,
     theme=rx.theme(
-        appearance="dark",
-        accent_color="grass",
-        radius="full"
+        appearance="dark",           # Tema oscuro
+        accent_color="teal",         # Color principal de acento
+        radius="medium",             # Bordes redondeados
+        font_family="Inter",         # Fuente moderna y legible
+        font_size="16px",            # Tamaño de letra base
+        heading_font_family="Inter", # Fuente de los títulos
+        heading_weight="600",        # Grosor de los títulos
+        body_weight="400",           # Grosor del texto normal
+        shadows=True,                # Sombras suaves
+        hover_effects=True           # Efectos al pasar el mouse
     )
 )
 
