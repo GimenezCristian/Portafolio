@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Cristian Gimenez",
-    "skill": "Enfocado en crear y optimizar software..",
+    "skill": "Enfocado en crear y optimizar software",
     "location": "Entre Rios, Argentina",
     "media": {
         "email": "gimenezc779@gmail.com",
@@ -108,15 +108,15 @@
             "icon": "backpack",
             "title": "UTN – Universidad Tecnológica Nacional",
             "subtitle": "Universidad",
-            "description": "Aprendí programación, desarrollo de software y habilidades técnicas..",
+            "description": "Aprendí programación, desarrollo de software y habilidades técnicas.",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "ISPC – Instituto Superior de Córdoba",
-            "subtitle": "Profundicé en desarrollo de aplicaciones y tecnologías modernas, aplicando conocimientos en proyectos reales.",
-            "description": "Aprendí más cosas.",
+            "title": "ISPC – Instituto Superior politéctinico de Córdoba",
+            "subtitle": "Istituto",
+            "description": "Profundice en desarrollo de aplicaciones y tecnologías modernas, aplicando conocimientos en proyectos reales.",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
