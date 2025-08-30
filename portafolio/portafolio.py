@@ -10,10 +10,9 @@ from portafolio.views.tech_stack import tech_stack
 
 DATA = data.data
 
-
 def index() -> rx.Component:
     return rx.center(
-        rx.theme_panel(),  # Panel de temas activo
+        #rx.theme_panel(),  # Panel para configurar el tema en el localhost
         rx.vstack(
             header(DATA),
             about(DATA.about),
@@ -33,21 +32,20 @@ def index() -> rx.Component:
         )
     )
 
-
 app = rx.App(
     stylesheets=STYLESHEETS,
     style=BASE_STYLE,
     theme=rx.theme(
-        appearance="dark",           # Tema oscuro
-        accent_color="teal",         # Color principal de acento
-        radius="medium",             # Bordes redondeados
-        font_family="Inter",         # Fuente moderna y legible
-        font_size="16px",            # Tamaño de letra base
-        heading_font_family="Inter", # Fuente de los títulos
-        heading_weight="600",        # Grosor de los títulos
-        body_weight="400",           # Grosor del texto normal
-        shadows=True,                # Sombras suaves
-        hover_effects=True           # Efectos al pasar el mouse
+        appearance="dark",       # Tema oscuro
+        accent_color="amber",    # Color ámbar
+        radius="full",           # Bordes completamente redondeados
+        font_family="Inter",     
+        font_size="16px",
+        heading_font_family="Inter",
+        heading_weight="600",
+        body_weight="400",
+        shadows=True,
+        hover_effects=True
     )
 )
 

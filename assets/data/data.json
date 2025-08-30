@@ -106,16 +106,16 @@
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
+            "title": "UTN – Universidad Tecnológica Nacional",
+            "subtitle": "Universidad",
+            "description": "Aprendí programación, desarrollo de software y habilidades técnicas..",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
+            "title": "ISPC – Instituto Superior de Córdoba",
+            "subtitle": "Profundicé en desarrollo de aplicaciones y tecnologías modernas, aplicando conocimientos en proyectos reales.",
             "description": "Aprendí más cosas.",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
